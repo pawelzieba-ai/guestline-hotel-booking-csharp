@@ -1,0 +1,5 @@
+[
+  { "hotelId": "H1", "roomId": "101", "date": "2025-04-30" },
+  { "hotelId": "H1", "roomId": "102", "date": "2025-04-30" },
+  { "hotelId": "H1", "roomId": "201", "date": "2025-05-01" }
+]
